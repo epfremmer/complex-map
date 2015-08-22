@@ -1,6 +1,6 @@
 {
-    "name": "epfremme/components",
-    "description": "Library of reusable components",
+    "name": "epfremme/complex-map",
+    "description": "Complex traversable map class",
     "type": "library",
     "require": {
         "php": ">=5.4"
